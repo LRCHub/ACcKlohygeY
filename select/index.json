@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "カナタハルカ",
+  "base_artist": "RADWIMPS",
+  "createdAt": "2026-02-13T04:42:49.680743Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "カナタハルカ",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/01_カナタハルカ_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "KANATA HALUKA (カナタハルカ)",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/02_KANATA_HALUKA_(カナタハルカ)_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "カナタハルカ",
+      "artist": "Akuya",
+      "has_synced": true,
+      "path": "select/03_カナタハルカ_Akuya.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "カナタハルカ",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/04_カナタハルカ_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Kanata Haluka カナタハルカ",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/05_Kanata_Haluka_カナタハルカ_RADWIMPS.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "カナタハルカ",
+      "artist": "RADWIMPS",
+      "has_synced": false,
+      "path": "select/pl_01_カナタハルカ_RADWIMPS.txt"
+    }
+  ]
+}
